@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UberSeekBar Demo</string>
+    <string-array name="titles">
+        <item>"uberPOOL"</item>
+        <item>"uberX"</item>
+        <item>"BLACK CAR"</item>
+        <item>"VAN"</item>
+    </string-array>
+    <array name="item_bg">
+        <item>@drawable/selector_default_button_uberpool</item>
+        <item>@drawable/selector_default_button_uberx</item>
+        <item>@drawable/selector_default_button_blackcar</item>
+        <item>@drawable/selector_default_button_van</item>
+    </array>
+
+</resources>

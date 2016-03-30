@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.bonnguyen.uberseekbar.UberSeekBar
+        android:id="@+id/uberSeekBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:bgItems="@array/item_bg"
+        app:maxProgress="300"
+        app:showTitle="true"
+        app:thumb="@drawable/selector_default_button_uberpool"
+        app:titles="@array/titles"
+        app:valueProgress="0" />
+</LinearLayout>
