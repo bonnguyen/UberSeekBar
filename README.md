@@ -1,7 +1,12 @@
 Uber SeekBar
 ===========================================
 Did you use Uber application, I'm really enjoy with UI/UX:
-<img src="http://i.imgur.com/K252SUu.png"/>
+<table>
+  <tr>
+    <td width="480"><img src="http://i.imgur.com/K252SUu.png"/></td>
+  </tr>
+</table>
+
 
 So today I want to make a SeekBar based on Uber App style.
 
